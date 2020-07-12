@@ -3,18 +3,24 @@
 
 과제 체크 리스트  
 =====================  
-ssl protocol
+ssl 프로토콜
 ---------------------
+![image](https://user-images.githubusercontent.com/50227394/87241479-968cc800-c45e-11ea-9f67-76dc8f74f7ce.png)
+고급(advanced)에서 localhost로 이동하여 원하는 페이지 볼 수 있음
 
+autoindex on
+---------------------
+![image](https://user-images.githubusercontent.com/50227394/87241395-b4a5f880-c45d-11ea-9df3-e2d01b770f47.png)  
+autoindex 설정시, 인덱싱된 화면으로 보여짐. etc/nginx/site-available/default에서 설정 가능.  
 
-autoindex
+redirection  
+---------------------
+http로 접속시 https로 이동  
+
+wordpress mysql 테스트  
 ----------------------
-
-redirection
-----------------------
-
-wordpress mysql 테스트
-----------------------
+![image](https://user-images.githubusercontent.com/50227394/87241572-7f9aa580-c45f-11ea-8b45-e32cb1d01a1e.png)  
+wordpress에서 글 작성 시, 데이터베이스에 작성된 글 확인 가능.  
 
 
 > docker 명령어
