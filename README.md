@@ -73,14 +73,14 @@ default.conf
 -------------------
 
      etc/nginx/site-available/default로 복사해서 사용.  
-     **redirection 설정**  
-     ![image](https://user-images.githubusercontent.com/50227394/87241651-34cd5d80-c460-11ea-901f-545fa183f360.png)  
+   **redirection 설정**  
+   ![image](https://user-images.githubusercontent.com/50227394/87241651-34cd5d80-c460-11ea-901f-545fa183f360.png)  
      
-     **ssl 설정**  
-     ![image](https://user-images.githubusercontent.com/50227394/87241673-6e05cd80-c460-11ea-8467-fadf751e2000.png)  
+   **ssl 설정**  
+   ![image](https://user-images.githubusercontent.com/50227394/87241673-6e05cd80-c460-11ea-8467-fadf751e2000.png)  
      
-     **autoindex 설정**  
-     ![image](https://user-images.githubusercontent.com/50227394/87241684-8d9cf600-c460-11ea-9fcf-8e4cdf653ec7.png)  
+   **autoindex 설정**  
+   ![image](https://user-images.githubusercontent.com/50227394/87241684-8d9cf600-c460-11ea-9fcf-8e4cdf653ec7.png)  
      autoindex on : index.nginx-debian.html 삭제
      autoindex off : index.nginx-debian.html 있어야함.
      
