@@ -81,7 +81,7 @@ default.conf
      
    **autoindex 설정**  
    ![image](https://user-images.githubusercontent.com/50227394/87241684-8d9cf600-c460-11ea-9fcf-8e4cdf653ec7.png)  
-     autoindex on : index.nginx-debian.html 삭제
+     autoindex on : index.nginx-debian.html 삭제  
      autoindex off : index.nginx-debian.html 있어야함.
      
 init.sh  
